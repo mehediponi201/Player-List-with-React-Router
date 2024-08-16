@@ -1,0 +1,8 @@
+
+.back-image {
+ background-image: url('./img/Clothing.png');
+ background-size: cover;
+  background-position: center;
+  width: 100vw;
+  height: 100vh;
+}
